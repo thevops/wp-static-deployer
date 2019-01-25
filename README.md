@@ -1,12 +1,12 @@
 # wp-static-deployer
 Script for generate static WordPress website
 
-## wp-static-deployer.sh
+### wp-static-deployer.sh
 
 Pobiera stronę wget'em do ustalonego katalogu.
 
 
-## wp-static-deployer-partial.sh
+### wp-static-deployer-partial.sh
 
 Bardziej rozbudowana wersja. Działa w dwóch trybach:
 
